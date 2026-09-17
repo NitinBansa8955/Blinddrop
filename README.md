@@ -1,4 +1,4 @@
-# CS-432-2026 — Databases Course Project
+# Blind Drop
 
 Repository for CS-432 (Databases), Semester II 2025-2026, IIT Gandhinagar.
 
